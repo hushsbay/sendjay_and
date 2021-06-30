@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths><!--https://eunplay.tistory.com/81-->
+    <external-path name="external-path" path="." /><!--Environment.getExternalStorageDirectory(),공용외부저장소,Deprecated-->
+    <external-files-path name="external-files-path" path="." /><!--getExternalFilesDir(),외부앱스토리지-->
+    <files-path name="files-path" path="." /><!--getFilesDir(),내부앱스토리지-->
+    <!--<cache-path name="cache-path" path="." />getCacheDir(),내부앱스토리지-->
+</paths>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468193515582",
+    "project_id": "sendjay-d712c",
+    "storage_bucket": "sendjay-d712c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468193515582:android:3e9cfe38ed4b2e83f4596f",
+        "android_client_info": {
+          "package_name": "com.hushsbay.sendjay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468193515582-9fakjrj6q5irkihrn4tb1gic4btf3c7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD8Lr4g4RplmQQeFr9YHkStVsw56-64QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468193515582-9fakjrj6q5irkihrn4tb1gic4btf3c7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
