@@ -4,6 +4,6 @@
 - 100% pure web messenger : tested on Chrome
 - android(kotlin) and ios(swift) supported : webview covers mobile UI
 
-See the details at [https://sendjay.com](https://sendjay.com)
+See the details and test at [https://sendjay.com](https://sendjay.com).
 
 MIT License.
